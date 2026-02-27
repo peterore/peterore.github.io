@@ -16,9 +16,7 @@ jobs:
         run: sudo apt install emacs-nox --yes
 
       - name: Build the site
-        run: |
-          ./build.sh
-          touch public/.nojekyll
+        run: ./build.sh
 
       - name: Publish generated content to GitHub Pages
         uses: peterore/github-pages-deploy-action@4.1.4
