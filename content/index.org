@@ -1,0 +1,13 @@
+#+title: Peter Ore DOT COM
+
+* About
+
+This is a website. About Peter Ore. Peter Ore DOT COM.
+
+Assistant Professor of [[https://qcsociology.commons.gc.cuny.edu/people/][Sociology at Queens College, CUNY]].  
+
+My book is all about air pollution control in the 20th century: [[./sample.org]]
+
+* Contact
+
+- Email me: peter DOT ore AT qc DOT cuny DOT edu
