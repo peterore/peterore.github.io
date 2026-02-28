@@ -1,23 +1,25 @@
 #+title: Peter D. Ore
 #+OPTIONS: num:nil date:nil toc:nil
 
-#+ATTR_HTML: @@html:<span style="font-size: 1.3em;">@@
-Assistant Professor of Sociology at
-[[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
+#+ATTR_HTML: @@html:<span style="font-size: 2em;">@@
+Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
-#+ATTR_HTML: :class wrap-l-shape
+#+begin_l_layout
+#+ATTR_HTML: :class l-image
 [[./images/politicaleducation_headshot.png]]
 
+#+begin_l_text_column
 * About
 
 #+ATTR_HTML: @@html:<span style="font-size: 1em;">@@
-My work centers on two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
-
 I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
 
-My theoretical and methodological work searches for new ways to frame computation, history, and sociology as elements in a broader tradition in humanist and political thought. I bring this to my teaching in data analytics, which combines analog and digital computing with discussions on the history and epistemology of statistics.
+My scholarship examines two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
 
 My students and I at the Queens Data Lab apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch. We can help.
+
+#+end_l_text_column
+#+end_l_layout
 
 * Selected publications
 
@@ -33,7 +35,11 @@ My students and I at the Queens Data Lab apply findings from my research to help
     - Jorgenson, Andrew K., Jared B. Fitzgerald, Ryan P. Thombs, Terrence D. Hill, Jennifer E. Givens, Brett Clark, Juliet B. Schor, Xiaorui Huang, Orla M. Kelly, and Peter Ore. 2020. "The Multiplicative Impacts of Working Hours and Fine Particulate Matter Concentration on Life Expectancy: A Longitudinal Analysis of US States." /Environmental Research/ 191: 1-7.
 
     - Jorgenson, Andrew, Terrence Hill, Brett Clark, Ryan P. Thombs, Peter Ore, Kelly S. Balistreri, and Jennifer Givens. 2020. "Power, Proximity, and Physiology: Does Income Inequality and Racial Composition Amplify the Impacts of Air Pollution on Life Expectancy in the United States?" /Environmental Research Letters/ 15: 1-10.
+    
+* other stuff :noexport:
 
+My theoretical and methodological work searches for new ways to frame computation, history, and sociology as elements in a broader tradition in humanist and political thought. I bring this to my teaching in data analytics, which combines analog and digital computing with discussions on the history and epistemology of statistics.
+    
 * Contact
 
 peter DOT ore AT qc DOT cuny DOT edu

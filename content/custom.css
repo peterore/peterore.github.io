@@ -1,19 +1,33 @@
 /* Aesthetic tweaks */
 :root {
-    --bg: #ffc99; /* Background color (light orange) */
+    --bg: #ffecd6; /* Background color (light orange) */
+    --text: #001b4d; /* Main text (dark blue) */
+    --text-light: #00308a; /* Secondary text (lighter blue) */
+    --accent: #cc5500; /* Links/buttons (burnt orange) */
 }
 
 body {
     max-width: 50rem; /* Margins */
+    font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
 }
 
-/* Wrapping function for headshot image */
-.wrap-l-shape {
-    float: left;
-    margin-right: 1.5rem;
-    margin-bottom: 1.5rem;
+/* Set column layout based on margins in headshot png */
+.l-layout {
+    position: relative;
+    margin-bottom: 2rem;
+    min-height: 300px;
+}
 
-    shape-outside: url('images/politicaleducation_headshot.png');
+.l-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width 250px; /* Image size, adjust as needed */
+}
 
-    shape-image-threshold: 0.5;
+.l-text-column {
+    padding-top: 60px;
+    margin-left: 100px;
 }
