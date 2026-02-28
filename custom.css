@@ -8,7 +8,7 @@
 
 body, main, #content {
     max-width: 65rem !important; /* Margins */
-    margin-left: 200px !important;
+    margin-left: 3rem !important;
     margin-right: auto !important;
     font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 1.1rem;
