@@ -1,0 +1,19 @@
+/* Aesthetic tweaks */
+:root {
+    --bg: #ffc99; /* Background color (light orange) */
+}
+
+body {
+    max-width: 50rem; /* Margins */
+}
+
+/* Wrapping function for headshot image */
+.wrap-l-shape {
+    float: left;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5rem;
+
+    shape-outside: url('images/politicaleducation_headshot.png');
+
+    shape-image-threshold: 0.5;
+}
