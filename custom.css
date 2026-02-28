@@ -14,20 +14,20 @@ body {
 }
 
 /* Set column layout based on margins in headshot png image */
-.l_layout {
+.l-layout {
     position: relative;
     margin-bottom: 2rem;
     min-height: 300px;
 }
 
-.l_image {
+.l-image {
     position: absolute;
     top: 0;
     left: 0;
     width 250px; /* Image size, adjust as needed */
 }
 
-.l_text_column {
+.l-text-column {
     padding-top: 60px;
     margin-left: 100px;
 }
