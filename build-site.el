@@ -36,8 +36,14 @@
 	     :with-creator nil
 	     :with-toc nil
 	     :section-numbers nil
-	     :time-stamp-file t)))
-
+	     :time-stamp-file t)
+       (list "my-org-static"
+	     :recursive t
+	     :base-directory "./content"
+	     :base-extension "css\\|js\\|png\\|jpg\\|jpeg\\|gif\\|pdf\\|svg"
+	     :publishing-directory "./public"
+	     :publishing-function 'org-publish-attachment)
+       ))
 
 ;; Generate the site output
 (org-publish-all t)

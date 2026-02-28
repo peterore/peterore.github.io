@@ -1,19 +1,20 @@
 #+title: Peter D. Ore
-#+ HTML_HEAD: <style> .subtitle { font-size: 0.75em; font-weight: normal; } </style>
-#+subtitle: Assistant Professor of Sociology @@html:<br>@@
-#+subtitle: [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 #+OPTIONS: num:1 date:nil toc:nil
 
+#+ATTR_HTML: 
+Assistant Professor of Sociology
+[[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
+
 #+ATTR_HTML: :style float: left; margin-right: 20px; margin-bottom: 20px;
-[[./politicaleducation_headshot.svg]]
+[[./images/politicaleducation_headshot.png]]
 
 * About
 
 My work centers on two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
 
-I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists shows that the technocratic and humanist traditions are continuous with each other, for better and worse. I think through this problem through scholarship and direct action.
+I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
 
-I am a non-denominational methodologist. My theoretical and methodological work searches for new ways to unify computation, history, and sociology into coherent forms of inquiry. I bring this to my teaching in data analytics, which combines analog and digital computing with discussions on the history and epistemology of statistics.
+My theoretical and methodological work searches for new ways to frame computation, history, and sociology as elements in a broader tradition in humanist and political thought. I bring this to my teaching in data analytics, which combines analog and digital computing with discussions on the history and epistemology of statistics.
 
 My students and I at the Queens Data Lab apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch. We can help.
 
@@ -34,7 +35,7 @@ My students and I at the Queens Data Lab apply findings from my research to help
 
 * Contact
 
-/Spelling out punctuation in the email addresses below reduces spam. Replace with the appropriate punctuation./
-
 - Email me: peter DOT ore AT qc DOT cuny DOT edu
 - Email Queens Data Lab: orepost2024 AT gmail DOT com
+
+/Spelling out the punctuation reduces spam./
