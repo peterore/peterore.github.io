@@ -8,7 +8,8 @@
 
 body, main, #content {
     max-width: 65rem !important; /* Margins */
-    margin: 0 auto !important;
+    margin-left: 2rem !important;
+    margin-right: auto !important;
     font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 1.1rem;
     line-height: 1.6;
@@ -21,20 +22,19 @@ body, main, #content {
     min-height: 300px;
 }
 
-/* Brute-force the L-image wrapper AND the image itself to obey your width */
 .l-image, .l-image img {
     position: absolute;
     top: 0;
     left: 0;
     width: 600px !important; 
-    max-width: none !important; /* This is the kill-switch for Simple.css */
+    max-width: none !important;
     height: auto;
     display: block;
 }
 
 .l-text-column {
-    padding-top: 170px;
-    margin-left: 150px;
+    padding-top: 165px;
+    margin-left: 160px;
 }
 
 /* Column configuration adjustment for mobile views */
