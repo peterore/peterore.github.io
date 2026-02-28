@@ -1,5 +1,5 @@
 #+title: Peter D. Ore
-#+HTML_HEAD: <style> .subtitle { font-size: 0.75em; font-weight: normal; } </style>
+#+ HTML_HEAD: <style> .subtitle { font-size: 0.75em; font-weight: normal; } </style>
 #+subtitle: Assistant Professor of Sociology @@html:<br>@@
 #+subtitle: [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 #+OPTIONS: num:1 date:nil toc:nil
