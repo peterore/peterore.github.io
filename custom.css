@@ -6,10 +6,21 @@
     --accent: #cc5500; /* Links/buttons (burnt orange) */
 }
 
+/* kill simple css grid */ 
+body {
+    display: block !important; 
+}
+
 body, main, #content {
-    max-width: 70rem !important; /* Margins */
-    margin-left: 1rem !important;
+    
+    max-width: 80rem !important; 
+    
+    margin-left: 1rem !important; 
     margin-right: auto !important;
+
+    padding-left: 1rem !important; 
+    padding-right: 1rem !important;
+
     font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 1.1rem;
     line-height: 1.6;
