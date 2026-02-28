@@ -24,12 +24,12 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 250px; /* Image size, adjust as needed */
+    width: 300px; /* Image size, adjust as needed */
 }
 
 .l-text-column {
     padding-top: 60px;
-    margin-left: 270px;
+    margin-left: 310px;
 }
 
 /* Column configuration adjustment for mobile views */
