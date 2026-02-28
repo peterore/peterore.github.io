@@ -7,8 +7,8 @@
 }
 
 body, main, #content {
-    max-width: 65rem !important; /* Margins */
-    margin-left: 3rem !important;
+    max-width: 70rem !important; /* Margins */
+    margin-left: 1rem !important;
     margin-right: auto !important;
     font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 1.1rem;
@@ -34,7 +34,7 @@ body, main, #content {
 
 .l-text-column {
     padding-top: 250px;
-    margin-left: 350px;
+    margin-left: 320px;
 }
 
 /* Column configuration adjustment for mobile views */
