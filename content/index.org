@@ -5,7 +5,7 @@
 Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
 #+begin_l_layout
-#+ATTR_HTML: :class l-image
+#+ATTR_HTML: :class l_image
 [[./images/politicaleducation_headshot.png]]
 
 #+begin_l_text_column
@@ -20,6 +20,8 @@ My students and I at the Queens Data Lab apply findings from my research to help
 
 #+end_l_text_column
 #+end_l_layout
+
+#+ATTR_HTML: @@html:<span style="font-size: 0.75em;">@@
 
 * Selected publications
 
