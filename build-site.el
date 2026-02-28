@@ -22,7 +22,7 @@
 (setq org-html-validation-link nil
       org-html-head-include-scripts nil
       org-html-head-include-default-style nil
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />\n<link rel=\"stylesheet\" href=\"./custom.css\" />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist

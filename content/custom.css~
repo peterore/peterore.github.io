@@ -1,0 +1,9 @@
+/* Aesthetic tweaks */
+:root {
+    --bg: #ffc99; /* Background color (light orange) */
+}
+
+body {
+    max-width: 50rem; /* Margins */
+}
+	  

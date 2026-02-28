@@ -1,15 +1,16 @@
 #+title: Peter D. Ore
-#+OPTIONS: num:1 date:nil toc:nil
+#+OPTIONS: num:nil date:nil toc:nil
 
-#+ATTR_HTML: 
-Assistant Professor of Sociology
+#+ATTR_HTML: @@html:<span style="font-size: 1.3em;">@@
+Assistant Professor of Sociology at
 [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
-#+ATTR_HTML: :style float: left; margin-right: 20px; margin-bottom: 20px;
+#+ATTR_HTML: :class wrap-l-shape
 [[./images/politicaleducation_headshot.png]]
 
 * About
 
+#+ATTR_HTML: @@html:<span style="font-size: 1em;">@@
 My work centers on two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
 
 I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
@@ -35,7 +36,7 @@ My students and I at the Queens Data Lab apply findings from my research to help
 
 * Contact
 
-- Email me: peter DOT ore AT qc DOT cuny DOT edu
-- Email Queens Data Lab: orepost2024 AT gmail DOT com
+peter DOT ore AT qc DOT cuny DOT edu
 
-/Spelling out the punctuation reduces spam./
+For Queens Data Lab inquiries: orepost2024 AT gmail DOT com
+
