@@ -7,7 +7,7 @@
 }
 
 body {
-    max-width: 50rem; /* Margins */
+    max-width: 80rem; /* Margins */
     font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 1.1rem;
     line-height: 1.6;
@@ -29,5 +29,28 @@ body {
 
 .l-text-column {
     padding-top: 60px;
-    margin-left: 100px;
+    margin-left: 260px;
+}
+
+/* Column configuration adjustment for mobile views */
+@media (max-width: 768px) {
+
+    .l-layout {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: left;
+    }
+
+    .l-image {
+	position: relative;
+	width: 100%;
+	max-width: 250px;
+	margin-bottom: 2rem;
+    }
+
+    .l-text-column {
+	padding-top: 0;
+	margin-left: 0;
+    }
 }
