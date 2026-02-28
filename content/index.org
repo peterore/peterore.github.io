@@ -20,7 +20,7 @@ My students and I at the Queens Data Lab apply findings from my research to help
 #+end_l-layout
 
 #+HTML: <div style="margin-top: 2rem; display: flex; gap: 1rem;">
-#+HTML:   <a class="button" href="./fall25_orecv.pdf">View My CV</a>
+#+HTML:   <a class="button" href="./fall25_orecv.pdf">My CV</a>
 #+HTML:   <a class="button" href="./images/qdl.html">Queens Data Lab</a>
 #+HTML: </div>
 
