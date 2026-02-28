@@ -1,15 +1,13 @@
 #+title: Peter D. Ore
 #+OPTIONS: num:nil date:nil toc:nil
-
-#+ATTR_HTML: @@html:<span style="font-size: 2em;">@@
-Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
-
-#+begin_l_layout
-#+ATTR_HTML: :class l_image
+#+begin_l-layout
+#+attr_html: :class l-image
 [[./images/politicaleducation_headshot.png]]
 
-#+begin_l_text_column
-* About
+#+begin_l-text-column
+* Peter D. Ore
+#+ATTR_HTML: @@html:<span style="font-size: 2em;">@@
+*Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]*
 
 #+ATTR_HTML: @@html:<span style="font-size: 1em;">@@
 I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
@@ -18,8 +16,8 @@ My scholarship examines two major cases of public knowledge in the 20th century 
 
 My students and I at the Queens Data Lab apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch. We can help.
 
-#+end_l_text_column
-#+end_l_layout
+#+end_l-text-column
+#+end_l-layout
 
 #+ATTR_HTML: @@html:<span style="font-size: 0.75em;">@@
 
