@@ -46,6 +46,6 @@ My theoretical and methodological work searches for new ways to frame computatio
     
 * Contact
 
-peter DOT ore AT qc DOT cuny DOT edu
+=peter DOT ore AT qc DOT cuny DOT edu=
 
-For Queens Data Lab inquiries: orepost2024 AT gmail DOT com
+For Queens Data Lab inquiries: =orepost2024 AT gmail DOT com=
