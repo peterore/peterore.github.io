@@ -7,7 +7,7 @@
 #+attr_html: :style font-size: 2.5em; font-weight: bold; margin-bottom: 0.2em; color: var(--text);
 Peter D. Ore
 
-#+ATTR_HTML: :style font-size: 1.2em; font-style: italic; margin-bottom: 1.5em;
+#+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em;
 Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
 I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
@@ -19,7 +19,10 @@ My students and I at the Queens Data Lab apply findings from my research to help
 #+end_l-text-column
 #+end_l-layout
 
-#+ATTR_HTML: @@html:<span style="font-size: 0.75em;">@@
+#+HTML: <div style="margin-top: 2rem; display: flex; gap: 1rem;">
+#+HTML:   <a class="button" href="./fall25_orecv.pdf">View My CV</a>
+#+HTML:   <a class="button" href="./images/qdl.html">Queens Data Lab</a>
+#+HTML: </div>
 
 * Selected publications
 
@@ -45,8 +48,3 @@ My theoretical and methodological work searches for new ways to frame computatio
 peter DOT ore AT qc DOT cuny DOT edu
 
 For Queens Data Lab inquiries: orepost2024 AT gmail DOT com
-
-#+HTML: <div style="margin-top: 2rem; display: flex; gap: 1rem;">
-#+HTML:   <a class="button" href="./fall25_orecv.pdf">View My CV</a>
-#+HTML:   <a class="button" href="./qdl.html">Queens Data Lab</a>
-#+HTML: </div>
