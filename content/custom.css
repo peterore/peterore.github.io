@@ -46,7 +46,7 @@ body, main, #content {
 .l-text-column {
     padding-top: 250px;
     margin-left: 320px;
-    max-width: 35rem;
+    max-width: 25rem;
 }
 
 /* Column configuration adjustment for mobile views */
