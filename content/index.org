@@ -5,12 +5,8 @@ Peter D. Ore
 
 #+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em; line-height: 1;
 Assistant Professor of Sociology \\
+#+ATTR_HTML: :style font-size: 1em; font-weight: bold; margin-bottom: 1.5em; line-height: 1;
 [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
-
-#+HTML: <div style="margin-top: 2rem; display: flex; gap: 1rem;">
-#+HTML:   <a class="button" href="./fall25_orecv.pdf">My CV</a>
-#+HTML:   <a class="button" href="./qdl.html">Queens Data Lab</a>
-#+HTML: </div>
 
 #+begin_l-layout
 #+attr_html: :class l-image
@@ -24,6 +20,11 @@ My scholarship examines two major cases of public knowledge in the 20th century 
 My students and I at the Queens Data Lab apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch. We can help.
 #+end_l-text-column
 #+end_l-layout
+
+#+HTML: <div style="margin-top: 2rem; display: flex; gap: 1rem;">
+#+HTML:   <a class="button" href="./fall25_orecv.pdf">My CV</a>
+#+HTML:   <a class="button" href="./qdl.html">Queens Data Lab</a>
+#+HTML: </div>
 
 * Selected publications
 
@@ -45,6 +46,8 @@ My students and I at the Queens Data Lab apply findings from my research to help
 My theoretical and methodological work searches for new ways to frame computation, history, and sociology as elements in a broader tradition in humanist and political thought. I bring this to my teaching in data analytics, which combines analog and digital computing with discussions on the history and epistemology of statistics.
     
 * Contact
+
+/Punctuation is spelled out to trick bots./ =DOT means .=, =AT means @=. 
 
 =peter DOT ore AT qc DOT cuny DOT edu=
 
