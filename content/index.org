@@ -10,7 +10,7 @@ Peter D. Ore
 #+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em;
 Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
-I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
+*I study how knowledge is made useful --- or not.* The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
 
 My scholarship examines two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
 

@@ -1,3 +1,18 @@
-#+MACRO: title-image @@html:<img src="$1" style="width: $3;">@@
-#+title: {{{title-image(./qdl.png, 300px, 5cm)}}} 
-Are you a non-profit, social movement, or public service organization in Queens NYC? We want to help you produce, manage, analyze, and store your data. Get in touch with us at orepost2024 AT gmail DOT com.
+#+OPTIONS: num:nil date:nil toc:nil
+#+MACRO: title-image @@html:<img src="$1" style="width: $2; max-width: 100%;">@@
+#+title: {{{title-image(images/qdl.png, 300px)}}}
+
+Are you a non-profit, social movement, or public service organization in Queens, NYC? 
+
+We want to help you make sense of your data. The Queens Data Lab can assist your organization with:
+
+* *Producing* data. What do you want to find out?
+* *Managing* your existing data. How can you put your data to work?
+* *Analyzing* your data. What kinds of things can you say with your data?
+* *Storing* your data. What do you want to remember?
+
+Get in touch with us at =orepost2024 AT gmail DOT com= to start a conversation.
+
+#+HTML: <div style="margin-top: 4rem;">
+#+HTML:   <a class="button" href="./index.html">← Back to Peter's Homepage</a>
+#+HTML: </div>
