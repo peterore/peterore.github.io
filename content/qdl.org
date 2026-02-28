@@ -1,0 +1,4 @@
+#+MACRO: title-image @@html:<img src="$1" style="width: $3;">@@ @@latex:\includegraphics[width=$4]{$2}@@
+#+title: {{{title-image(./qdl.png, ./qdl.png, 300px, 5cm)}}}
+
+Are you a non-profit, social movement, or public service organization in Queens NYC? We want to help you produce, manage, analyze, and store your data. Get in touch with us at orepost2024 AT gmail DOT com.

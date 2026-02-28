@@ -1,13 +1,37 @@
-#+title: Peter Ore DOT COM
+#+title: Peter D. Ore
+#+subtitle: Assistant Professor of Sociology @@html:<br@@
+#+subtitle: [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
+
+[[./politicaleducation_headshot.svg]]
 
 * About
 
-This is a website. About Peter Ore. Peter Ore DOT COM.
+My work centers on two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
 
-Assistant Professor of [[https://qcsociology.commons.gc.cuny.edu/people/][Sociology at Queens College, CUNY]].  
+I study how knowledge is made useful, or not. The intellectual history of environmental bureaucrats and the bureaucratic history of sociologists shows that the technocratic and humanist traditions are continuous with each other, for better and worse. I think through this problem through scholarship and direct action.
 
-My book is all about air pollution control in the 20th century: [[./sample.org]]
+I am a non-denominational methodologist. My theoretical and methodological work searches for new ways to unify computation, history, and sociology into coherent forms of inquiry. I bring this to my teaching in data analytics, which combines analog and digital computing with discussions on the history and epistemology of statistics.
+
+My students and I at the [[qdl.org][Queens Data Lab]] apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch. We can help.
+
+* Selected publications
+
+    - Ore, Peter D., Menchik, Daniel A. 2026. "The Global Chicago School: Cases and Currents." /The American Sociologist/. https://doi.org/10.1007/s12108-026-09683-9
+    - Ore, Peter. 2025. "The Political Economy of Water Pollution." in /An Introduction to Contemporary Social Epidemiology: Definition and Theory/, edited by Terrence Hill, Tarani Chandola, and Ginny Garcia-Alexander.
+    - Ore, Peter. 2024. "Symbolic Structures: New Entries in the Sociology of Housing." /Contemporary Sociology/.
+    - Diaz, Christina J. and Peter D. Ore. 2022. Landscapes of Appropriation and Assimilation: the Impact of Immigrant-Origin Populations on U.S. Cuisine." /Journal of Ethnic and Migration Studies/ 48(5): 1152-1176.
+    - Ore, Peter and Andrew Davis. 2020. "The Frailty of the Strong Executive." /Fast Capitalism/ 17(1): 73-86.
+    - Hill, Terrence, Andrew Jorgenson, Peter Ore, Kelly Balistreri, and Brett Clark. 2019. "Air Quality and Life Expectancy in the United States: An Analysis of the Moderating Effect of Income Inequality." /Social Science & Medicine – Population Health/. 7: 1-7.
+
+** Non-selected work :noexport:
+
+    - Jorgenson, Andrew K., Jared B. Fitzgerald, Ryan P. Thombs, Terrence D. Hill, Jennifer E. Givens, Brett Clark, Juliet B. Schor, Xiaorui Huang, Orla M. Kelly, and Peter Ore. 2020. "The Multiplicative Impacts of Working Hours and Fine Particulate Matter Concentration on Life Expectancy: A Longitudinal Analysis of US States." /Environmental Research/ 191: 1-7.
+
+    - Jorgenson, Andrew, Terrence Hill, Brett Clark, Ryan P. Thombs, Peter Ore, Kelly S. Balistreri, and Jennifer Givens. 2020. "Power, Proximity, and Physiology: Does Income Inequality and Racial Composition Amplify the Impacts of Air Pollution on Life Expectancy in the United States?" /Environmental Research Letters/ 15: 1-10.
 
 * Contact
 
+/Spelling out punctuation in the email addresses below reduces spam. Replace with the appropriate punctuation./
+
 - Email me: peter DOT ore AT qc DOT cuny DOT edu
+- Email Queens Data Lab: orepost2024 AT gmail DOT com

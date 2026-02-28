@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="400px"
+   height="400px"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="qdl.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.59"
+     inkscape:cx="159.32203"
+     inkscape:cy="70.338983"
+     inkscape:window-width="1520"
+     inkscape:window-height="862"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title1">Organization Logo - QDL</title>
+  <!-- 
+    This block defines the invisible circular paths that the text will follow.
+    - 'circlePath' is for the top slogan and bullets, running clockwise.
+    - 'circlePathBottom' is a reversed path for the bottom text, ensuring it's upright.
+  -->
+  <defs
+     id="defs1">
+    <path
+       id="circlePath"
+       d="M 50, 200 a 150,150 0 1,1 300,0 a 150,150 0 1,1 -300,0"
+       fill="none" />
+    <path
+       id="circlePathBottom"
+       d="M 350, 200 a 150,150 0 1,0 -300,0 a 150,150 0 1,0 300,0"
+       fill="none" />
+  </defs>
+  <!-- Outer circle -->
+  <circle
+     cx="200"
+     cy="200"
+     r="190"
+     stroke="#333"
+     stroke-width="3"
+     fill="none"
+     id="circle1"
+     style="fill:none" />
+  <!-- Inner circle -->
+  <ellipse
+     cx="199.62712"
+     cy="198.61017"
+     stroke="#333333"
+     stroke-width="3.13901"
+     fill="none"
+     id="circle2"
+     rx="134.28453"
+     ry="130.04726" />
+  <!-- Slogan text on the top of the circular path -->
+  <text
+     font-family="Georgia, serif"
+     font-size="24"
+     font-weight="bold"
+     fill="#333"
+     letter-spacing="5"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:5;fill:#333333"><textPath
+       href="#circlePath"
+       startOffset="25%"
+       text-anchor="middle"
+       id="textPath2">ssSOLA DATA NON SERVABUNT NOS</textPath></text>
+  <!-- Organization name on the bottom, upright due to reversed path -->
+  <text
+     font-family="Georgia, serif"
+     font-size="24px"
+     font-weight="bold"
+     fill="#333333"
+     letter-spacing="5"
+     id="text3"
+     transform="matrix(-1.2031032,0,0,-1.3790281,442.73655,436.31704)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8795px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:5;fill:#333333"><textPath
+       href="#circlePathBottom"
+       startOffset="25%"
+       text-anchor="middle"
+       id="textPath3">QUEENS DATA LAB</textPath></text>
+  <!-- Diamond bullets at the left and right midpoints -->
+  <!-- Original 'QDL' Text Block -->
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26px;line-height:1.1;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';letter-spacing:14.89px;fill:#000000;stroke:#040000;stroke-width:1.51181"
+     x="78.576256"
+     y="235.8983"
+     id="text6"><tspan
+       x="78.576256"
+       y="235.8983"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:136.063px;font-family:Sans;-inkscape-font-specification:'Sans, Normal'"
+       id="tspan5">Q</tspan></text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.308px;line-height:1.1;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';letter-spacing:19.4036px;fill:#000000;stroke:#040000;stroke-width:1.97009"
+     x="150.2623"
+     y="319.77106"
+     transform="scale(1.0607209,0.94275507)"
+     id="text7"><tspan
+       x="150.2623"
+       y="319.77106"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.308px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';stroke-width:1.97009"
+       id="tspan6">D</tspan></text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:155.976px;line-height:1.1;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';letter-spacing:17.0691px;fill:#000000;stroke:#040000;stroke-width:1.73306"
+     x="217.95705"
+     y="238.09392"
+     transform="scale(1.0713932,0.93336415)"
+     id="text8"><tspan
+       x="217.95705"
+       y="238.09392"
+       style="stroke-width:1.73306"
+       id="tspan7">L</tspan></text>
+</svg>
