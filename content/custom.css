@@ -6,8 +6,9 @@
     --accent: #cc5500; /* Links/buttons (burnt orange) */
 }
 
-body {
-    max-width: 80rem; /* Margins */
+body, main, #content {
+    max-width: 65rem !important; /* Margins */
+    margin: 0 auto !important;
     font-family: "Helvetica Neue", "Segoe UI", Roboto, Arial, sans-serif;
     font-size: 1.1rem;
     line-height: 1.6;
