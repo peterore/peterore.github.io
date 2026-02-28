@@ -50,4 +50,4 @@
 
 (message "Job's finished")
 
-;; Built from the systemcrafters tutorial: https://systemcrafters.net/publishing-websites-with-org-mode/building-the-site/
+;; Initially built from the systemcrafters tutorial: https://systemcrafters.net/publishing-websites-with-org-mode/building-the-site/
