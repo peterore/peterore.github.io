@@ -5,13 +5,12 @@
 Are you a non-profit, social movement, or public service organization in Queens, NYC? 
 
 We want to help you make sense of your data. The Queens Data Lab can assist your organization with:
+    - *Producing* data. /What do you want to find out?/ 
+    - *Managing* your existing data. /How can you put your data to work?/
+    - *Analyzing* your data. /What kinds of things can you say with your data?/
+    - *Storing* your data. /What do you want to remember?/
 
-* *Producing* data. What do you want to find out?
-* *Managing* your existing data. How can you put your data to work?
-* *Analyzing* your data. What kinds of things can you say with your data?
-* *Storing* your data. What do you want to remember?
-
-Get in touch with us at =orepost2024 AT gmail DOT com= to start a conversation.
+Get in touch with us at =orepost2024 AT gmail DOT com=.
 
 #+HTML: <div style="margin-top: 4rem;">
 #+HTML:   <a class="button" href="./index.html">← Back to Peter's Homepage</a>

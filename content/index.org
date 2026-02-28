@@ -4,7 +4,9 @@
 Peter D. Ore
 
 #+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em;
-Assistant Professor of Sociology at [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
+Assistant Professor of Sociology
+
+[[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
 #+begin_l-layout
 #+attr_html: :class l-image
