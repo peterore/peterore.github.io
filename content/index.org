@@ -3,7 +3,7 @@
 #+attr_html: :style font-size: 2.5em; font-weight: bold; margin-bottom: 0.2em; color: var(--text);
 Peter D. Ore
 
-#+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em; line-height: 1;
+#+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em;
 Assistant Professor of Sociology \\
 #+ATTR_HTML: :style font-size: 1em; font-weight: bold; margin-bottom: 1.5em; line-height: 1;
 [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
@@ -13,11 +13,11 @@ Assistant Professor of Sociology \\
 [[./images/politicaleducation_headshot.png]]
 
 #+begin_l-text-column
-*I study how knowledge is made useful --- or not.* The history of environmental bureaucrats and of social science is full of unexpected continuities in thought and action. I think through these problems in my scholarship and through public service.
+*I study how knowledge is made useful --- or not.* The history of environmental bureaucracy and social science is full of unexpected continuities and discontinuities. I think through them in my scholarship and through public service.
 
 My scholarship examines two major cases of public knowledge in the 20th century United States, sociology and the Federal air pollution control technocracy. My book on the origins of air pollution control is under advance contract in the /Middle Range/ series with Columbia University Press.
 
-My students and I at the Queens Data Lab apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch. We can help.
+My students and I at the Queens Data Lab apply findings from my research to help local public organizations make sense of their work. If you are a public organization in Queens NYC with data lying around, get in touch.
 #+end_l-text-column
 #+end_l-layout
 
@@ -29,7 +29,7 @@ My students and I at the Queens Data Lab apply findings from my research to help
 * Selected publications
 
     - Ore, Peter D., Menchik, Daniel A. 2026. "The Global Chicago School: Cases and Currents." /The American Sociologist/. https://doi.org/10.1007/s12108-026-09683-9
-    - Ore, Peter. 2025. "The Political Economy of Water Pollution." in /An Introduction to Contemporary Social Epidemiology: Definition and Theory/, edited by Terrence Hill, Tarani Chandola, and Ginny Garcia-Alexander.
+    - Ore, Peter D. 2025. "The Political Economy of Water Pollution." in /An Introduction to Contemporary Social Epidemiology: Definition and Theory/, edited by Terrence Hill, Tarani Chandola, and Ginny Garcia-Alexander.
     - Ore, Peter. 2024. "Symbolic Structures: New Entries in the Sociology of Housing." /Contemporary Sociology/.
     - Diaz, Christina J. and Peter D. Ore. 2022. Landscapes of Appropriation and Assimilation: the Impact of Immigrant-Origin Populations on U.S. Cuisine." /Journal of Ethnic and Migration Studies/ 48(5): 1152-1176.
     - Ore, Peter and Andrew Davis. 2020. "The Frailty of the Strong Executive." /Fast Capitalism/ 17(1): 73-86.
@@ -47,8 +47,8 @@ My theoretical and methodological work searches for new ways to frame computatio
     
 * Contact
 
-/Punctuation is spelled out to trick bots./ =DOT means .=, =AT means @=. 
-
 =peter DOT ore AT qc DOT cuny DOT edu=
 
-For Queens Data Lab inquiries: =orepost2024 AT gmail DOT com=
+Queens Data Lab: =orepost2024 AT gmail DOT com=
+
+/Punctuation is spelled out to trick bots/ (=DOT= means =.=, =AT= means =@=).  
