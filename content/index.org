@@ -1,9 +1,9 @@
 #+OPTIONS: num:nil date:nil toc:nil
 
-#+attr_html: :style font-size: 2.5em; font-weight: bold; margin-bottom: 0.2em; color: var(--text);
+#+attr_html: :style font-size: 2.5em; font-weight: bold; margin-bottom: 0.2em; color: var(--text); line-height: 1.5;
 Peter D. Ore
 
-#+ATTR_HTML: :style font-weight: bold; margin-bottom: 1.5em; line-height: 1;
+#+ATTR_HTML: :style font-weight: bold; margin-bottom: 1.5em; line-height: 1.25;
 @@html:<span style="font-size: 1.2em;">@@Assistant Professor of Sociology@@html:</span>@@ \\
 [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
@@ -27,7 +27,7 @@ My students and I at the Queens Data Lab apply findings from my research to help
 
 * Selected publications
 
-    - Ore, Peter D., Menchik, Daniel A. 2026. "The Global Chicago School: Cases and Currents." /The American Sociologist/. https://doi.org/10.1007/s12108-026-09683-9
+    - Ore, Peter D., and Daniel A. Menchik. 2026. "The Global Chicago School: Cases and Currents." /The American Sociologist/. https://doi.org/10.1007/s12108-026-09683-9
     - Ore, Peter D. 2025. "The Political Economy of Water Pollution." in /An Introduction to Contemporary Social Epidemiology: Definition and Theory/, edited by Terrence Hill, Tarani Chandola, and Ginny Garcia-Alexander.
     - Ore, Peter. 2024. "Symbolic Structures: New Entries in the Sociology of Housing." /Contemporary Sociology/.
     - Diaz, Christina J. and Peter D. Ore. 2022. Landscapes of Appropriation and Assimilation: the Impact of Immigrant-Origin Populations on U.S. Cuisine." /Journal of Ethnic and Migration Studies/ 48(5): 1152-1176.
