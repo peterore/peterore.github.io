@@ -1,9 +1,8 @@
 #+OPTIONS: num:nil date:nil toc:nil
 
-#+attr_html: :style font-size: 2.5em; font-weight: bold; margin-bottom: 0.2em; color: var(--text); line-height: 1.5;
-Peter D. Ore
-#+ATTR_HTML: :style font-weight: bold; margin-bottom: 1.5em; line-height: 1.25;
-@@html:<span style="font-size: 1.2em;">@@Assistant Professor of Sociology@@html:</span>@@ \\
+#+ATTR_HTML: :style font-weight: bold; margin-bottom: 1.5em;
+@@html:<span style="font-size: 2.5em; color: var(--text); line-height: 1.5; display: inline-block; margin-bottom: 0.2em;">@@Peter D. Ore@@html:</span>@@ \\
+@@html:<span style="font-size: 1.2em; line-height: 1.25;">@@Assistant Professor of Sociology@@html:</span>@@ \\
 [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
 #+begin_l-layout
