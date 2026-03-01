@@ -4,7 +4,7 @@
 Peter D. Ore
 
 #+ATTR_HTML: :style font-size: 1.2em; font-weight: bold; margin-bottom: 1.5em; line-height 1;
-Assistant Professor of Sociology \\
+Assistant Professor of Sociology
 #+ATTR_HTML: :style font-size: 1em; font-weight: bold; margin-bottom: 1.5em; line-height: 1;
 [[https://qcsociology.commons.gc.cuny.edu/people/][Queens College, CUNY]]
 
